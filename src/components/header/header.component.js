@@ -67,7 +67,7 @@ const Header = () => {
                   </li>
                   <li>
                     <Link className="dropdown-item" to={"/live-scoring/"}>
-                      LIVE SCORING
+                      LIVE Scoring
                     </Link>
                   </li>
                 </ul>
